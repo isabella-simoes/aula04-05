@@ -1,0 +1,29 @@
+nav a{
+padding: 30px;
+text-decoration: none;
+color: aliceblue;
+font-size: 30px;
+}
+nav a{
+    
+}
+nav{
+    text-align: center;
+    height: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       
+}
+body{
+    background-image: url(hora-de-aventura.png);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    
+}
+form{
+    text-align: center;
+    padding: 60px;
+}
+#nome{
+    font-size: 20px;
+    padding:20px
+}
